@@ -1,7 +1,7 @@
 # **Airbnb Marketing Strategy: Data-Driven Insights for Customer Acquisition & Retention
 
 ## **Project Overview**  
-Developed a comprehensive, data-driven marketing strategy for Airbnb, focusing on optimizing customer acquisition and host retention in the Eugene, OR market through advanced analytics.
+Developed a comprehensive, data-driven marketing strategy for Airbnb using R, focusing on optimizing customer acquisition and host retention in the Eugene, OR market through advanced analytics.
 
 ---
 
